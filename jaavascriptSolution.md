@@ -22,7 +22,7 @@
 
 ```js
 // to change top description
-document.querySelector('.crayons-subtitle-2').innerHTML = 'Prateek Budhiraja';
+document.querySelector('.crayons-subtitle-2').innerHTML = 'Vimal Kumar';
 
 // to change description
 document.querySelector('aside p').innerHTML = 'I love ❣️ to write code!';
